@@ -59,19 +59,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork)](YOUR_UPWORK)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/leonid-fomenko-full-stack)
+[![Upwork](https://img.shields.io/badge/Upwork-0F172A?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~016f571b33bdae050a?mp_source=share)
+[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/LeonidFomenko)
 
 ---
 
