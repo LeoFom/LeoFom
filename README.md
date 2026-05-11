@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leonid Fomenko 👋</h1>
-<h3 align="center">Frontend Developer | MVP Builder | React / Next.js</h3>
+<h3 align="center">Fullstack Developer | MVP Builder | React / Next.js</h3>
 
 <p align="center">
   I build real products — not just interfaces.
